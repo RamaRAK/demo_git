@@ -1,0 +1,6 @@
+hello team
+
+generate code -verify
+git init
+git clone
+git add
